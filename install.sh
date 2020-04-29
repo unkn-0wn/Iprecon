@@ -28,7 +28,7 @@ fi
  echo "";
  git clone https://github.com/unkn-0wn/Iprecon.git /usr/share/doc/iprecon;
  echo "#!/bin/bash 
- python /usr/share/doc/iprecon/iprecon.py" '${1+"$@"}' > iprecon;
+ python3 /usr/share/doc/iprecon/iprecon.py" '${1+"$@"}' > iprecon;
  chmod +x iprecon;
  sudo cp iprecon /usr/bin/;
  rm iprecon;
