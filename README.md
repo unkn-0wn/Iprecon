@@ -23,7 +23,6 @@ This Tools is a collection of online IP Tools that can be used to quickly get in
 + GeoIP Lookup
 + Port Scan
 + Reverse IP Lookup
-+ INSTALL & UPDATE
 + Exit
 # Whois lookup
 Determine the registered owner of a domain or IP address block with the whois tool.
@@ -41,9 +40,8 @@ A simple TCP Port Scan to quickly determine the status of an Internet facing ser
 Discover web hosts sharing an IP address with a reverse IP lookup.
 # Installation [Linux]
 
- git clone https://github.com/unkn-0wn/Iprecon.git
-
- cd iprecon && ./install.sh
+ ``` git clone https://github.com/unkn-0wn/Iprecon.git ```
+ ``` cd iprecon && ./install.sh ```
  
  Congratulation Iprecon is Installed !
 
@@ -57,8 +55,8 @@ Discover web hosts sharing an IP address with a reverse IP lookup.
 
  Open CMD and type the following commands:
 
- $cd path-of-extracted-file/iprecon.../
+ $```cd path-of-extracted-file/iprecon.../```
 
- $python iprecon.py
+ $```python iprecon.py```
 
 
