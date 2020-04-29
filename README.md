@@ -30,13 +30,13 @@ Discover web hosts sharing an IP address with a reverse IP lookup.
 
  git clone https://github.com/unkn-0wn/Iprecon.git
 
- cd iprecon && python install.sh
+ cd iprecon && ./install.sh
  
  Congratulation Iprecon is Installed !
 
 # Installation [Windows]
 
- Download [![python](https://www.python.org/downloads/release/python-382/)
+ Download [python](https://www.python.org/downloads/release/python-382/)
 
  Download [iprecon](https://github.com/unkn-0wn/Iprecon.git)
 
