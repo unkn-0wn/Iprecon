@@ -26,7 +26,7 @@ fi
 
  echo "[✔] Installing ...";
  echo "";
- git clone https://github.com/ /usr/share/doc/iprecon;
+ git clone https://github.com/unkn-0wn/Iprecon.git /usr/share/doc/iprecon;
  echo "#!/bin/bash 
  python /usr/share/doc/iprecon/iprecon.py" '${1+"$@"}' > iprecon;
  chmod +x iprecon;
