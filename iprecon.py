@@ -7,7 +7,6 @@ import os
 import sys
 #d3=os.system("curl http://ipinfo.io/ip")
 os.system('cls' if os.name == 'nt' else 'clear')
-os.system("clear && clear && clear")
 logo = '''\033[0m 
          
          
