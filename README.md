@@ -28,7 +28,7 @@ A simple TCP Port Scan to quickly determine the status of an Internet facing ser
 Discover web hosts sharing an IP address with a reverse IP lookup.
 # Installation [Linux]
 
- git clone https://github.com/
+ git clone https://github.com/unkn-0wn/Iprecon.git
 
  cd iprecon && python install.sh
  
@@ -38,9 +38,9 @@ Discover web hosts sharing an IP address with a reverse IP lookup.
 
  Download [![python](https://www.python.org/downloads/release/python-382/)
 
- Download [iprecon](https://github.com/)
+ Download [iprecon](https://github.com/unkn-0wn/Iprecon.git)
 
- Extract [iprecon](https://github.com/) 
+ Extract [iprecon] 
 
  Open CMD and type the following commands:
 
